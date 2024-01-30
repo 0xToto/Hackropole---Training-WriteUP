@@ -1,4 +1,4 @@
-![image](https://github.com/0xToto/Hackropole---Training-WriteUP/assets/154510912/223870bf-c2b5-4e2e-8f7c-62c94eba12b4)# Cryptography
+# Cryptography
 
 ## Le Rat Conteur
 
